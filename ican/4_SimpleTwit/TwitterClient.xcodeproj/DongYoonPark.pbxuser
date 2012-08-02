@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TwitterClient */ = {
+		activeExec = 0;
+		executables = (
+			CD1AEF3512EC8FBE001992BA /* TwitterClient */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 891}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 3850}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1500}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CD1AEF3512EC8FBE001992BA /* TwitterClient */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TwitterClient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TwitterClient */,
+		);
+		codeSenseManager = CD1AEF3A12EC8FDE001992BA /* Code sense */;
+		executables = (
+			CD1AEF3512EC8FBE001992BA /* TwitterClient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317493768;
+			PBXWorkspaceStateSaveDate = 317493768;
+		};
+		perUserProjectItems = {
+			CD1E8D9112EC924200B1ABFC /* PBXBookmark */ = CD1E8D9112EC924200B1ABFC /* PBXBookmark */;
+			CD1E8DE712EC94F400B1ABFC /* PBXTextBookmark */ = CD1E8DE712EC94F400B1ABFC /* PBXTextBookmark */;
+			CD1E8DE812EC94F400B1ABFC /* PBXBookmark */ = CD1E8DE812EC94F400B1ABFC /* PBXBookmark */;
+			CD1E8DE912EC94F400B1ABFC /* PBXTextBookmark */ = CD1E8DE912EC94F400B1ABFC /* PBXTextBookmark */;
+		};
+		sourceControlManager = CD1AEF3912EC8FDE001992BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CD1AEF3512EC8FBE001992BA /* TwitterClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TwitterClient;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CD1AEF3912EC8FDE001992BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CD1AEF3A12EC8FDE001992BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CD1E8D9112EC924200B1ABFC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD1E8D8D12EC922200B1ABFC /* DetailViewBG.png */;
+	};
+	CD1E8DE712EC94F400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1500;
+		vrLoc = 0;
+	};
+	CD1E8DE812EC94F400B1ABFC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+	};
+	CD1E8DE912EC94F400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 11";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,344 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FoursquareClientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FoursquareClientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 728}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 1136}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FoursquareClient */ = {
+		activeExec = 0;
+		executables = (
+			CD3CD33F1235BBED000AB46C /* FoursquareClient */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 1087}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 4032}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 1190}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CD3CD33F1235BBED000AB46C /* FoursquareClient */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FoursquareClient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FoursquareClient */,
+		);
+		codeSenseManager = CD3CD3501235BBF0000AB46C /* Code sense */;
+		executables = (
+			CD3CD33F1235BBED000AB46C /* FoursquareClient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					913,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317493756;
+			PBXWorkspaceStateSaveDate = 317493756;
+		};
+		perUserProjectItems = {
+			CD1E8D9D12EC92D400B1ABFC /* PBXBookmark */ = CD1E8D9D12EC92D400B1ABFC /* PBXBookmark */;
+			CD1E8D9E12EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8D9E12EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8D9F12EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8D9F12EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA012EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA012EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA112EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA112EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA212EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA212EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA312EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA312EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA412EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA412EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA512EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA512EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA612EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA612EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA712EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA712EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA812EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA812EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DA912EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DA912EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DAA12EC92D400B1ABFC /* PBXTextBookmark */ = CD1E8DAA12EC92D400B1ABFC /* PBXTextBookmark */;
+			CD1E8DB312EC932200B1ABFC /* PBXTextBookmark */ = CD1E8DB312EC932200B1ABFC /* PBXTextBookmark */;
+		};
+		sourceControlManager = CD3CD34F1235BBF0000AB46C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 705}}";
+			sepNavSelRange = "{166, 0}";
+			sepNavVisRange = "{0, 400}";
+		};
+	};
+	CD1E8D9D12EC92D400B1ABFC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD3CD4211235CDC7000AB46C /* DetailViewBG.png */;
+	};
+	CD1E8D9E12EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1BC0B121211CC660002F1E0 /* MapViewController.m */;
+		name = "MapViewController.m: 9";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 1374;
+		vrLoc = 0;
+	};
+	CD1E8D9F12EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1BC0B111211CC660002F1E0 /* MapViewController.h */;
+		name = "MapViewController.h: 9";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	CD1E8DA012EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FoursquareClientAppDelegate.m */;
+		name = "FoursquareClientAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 1136;
+		vrLoc = 0;
+	};
+	CD1E8DA112EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FoursquareClientAppDelegate.h */;
+		name = "FoursquareClientAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	CD1E8DA212EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 9";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 1190;
+		vrLoc = 0;
+	};
+	CD1E8DA312EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 9";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 1087;
+		vrLoc = 0;
+	};
+	CD1E8DA412EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165E11E8432600D0B048 /* ImageLoadingOperation.m */;
+		name = "ImageLoadingOperation.m: 9";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 0;
+	};
+	CD1E8DA512EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165D11E8432600D0B048 /* ImageLoadingOperation.h */;
+		name = "ImageLoadingOperation.h: 9";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 0;
+	};
+	CD1E8DA612EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165C11E8432600D0B048 /* FoursquareClientModel.m */;
+		name = "FoursquareClientModel.m: 9";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 1204;
+		vrLoc = 0;
+	};
+	CD1E8DA712EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165B11E8432600D0B048 /* FoursquareClientModel.h */;
+		name = "FoursquareClientModel.h: 9";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 0;
+	};
+	CD1E8DA812EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165A11E8432600D0B048 /* DetailViewController.m */;
+		name = "DetailViewController.m: 9";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 1503;
+		vrLoc = 0;
+	};
+	CD1E8DA912EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F180165911E8432600D0B048 /* DetailViewController.h */;
+		name = "DetailViewController.h: 5";
+		rLen = 98;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 0;
+	};
+	CD1E8DAA12EC92D400B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 4";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	CD1E8DB312EC932200B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 8";
+		rLen = 0;
+		rLoc = 166;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 0;
+	};
+	CD3CD33F1235BBED000AB46C /* FoursquareClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FoursquareClient;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CD3CD34F1235BBF0000AB46C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CD3CD3501235BBF0000AB46C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F180165911E8432600D0B048 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{85, 98}";
+			sepNavVisRange = "{0, 1406}";
+		};
+	};
+	F180165A11E8432600D0B048 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 2688}}";
+			sepNavSelRange = "{183, 0}";
+			sepNavVisRange = "{0, 1503}";
+		};
+	};
+	F180165B11E8432600D0B048 /* FoursquareClientModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 983}";
+		};
+	};
+	F180165C11E8432600D0B048 /* FoursquareClientModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 1974}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 1204}";
+		};
+	};
+	F180165D11E8432600D0B048 /* ImageLoadingOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 836}";
+		};
+	};
+	F180165E11E8432600D0B048 /* ImageLoadingOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 1456}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 762}";
+		};
+	};
+	F1BC0B111211CC660002F1E0 /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 670}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 580}";
+		};
+	};
+	F1BC0B121211CC660002F1E0 /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 1666}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 1374}";
+		};
+	};
+}

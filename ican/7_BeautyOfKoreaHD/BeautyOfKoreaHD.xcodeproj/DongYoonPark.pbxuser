@@ -1,0 +1,340 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BeautyOfKoreaHDAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 705}}";
+			sepNavSelRange = "{315, 0}";
+			sepNavVisRange = "{0, 881}";
+			sepNavWindowFrame = "{{38, 44}, {984, 808}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BeautyOfKoreaHDAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 1138}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BeautyOfKoreaHD */ = {
+		activeExec = 0;
+		executables = (
+			CD9833E9120806CE00011F4A /* BeautyOfKoreaHD */,
+		);
+	};
+	28042007108E984D000629CD /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{0, 1370}";
+		};
+	};
+	28042008108E984D000629CD /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 1750}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{0, 1162}";
+		};
+	};
+	28042009108E984D000629CD /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 1224}";
+		};
+	};
+	2804200A108E984D000629CD /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 5348}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 1515}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CD9833E9120806CE00011F4A /* BeautyOfKoreaHD */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BeautyOfKoreaHD */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BeautyOfKoreaHD */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = CD9833FE120806DA00011F4A /* Code sense */;
+		executables = (
+			CD9833E9120806CE00011F4A /* BeautyOfKoreaHD */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					913,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317494067;
+			PBXWorkspaceStateSaveDate = 317494067;
+		};
+		perUserProjectItems = {
+			CD1AEF0A12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0A12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF0B12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0B12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF0C12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0C12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF0D12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0D12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF0E12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0E12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF0F12EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF0F12EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF1012EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF1012EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF1112EC8F5E001992BA /* PBXTextBookmark */ = CD1AEF1112EC8F5E001992BA /* PBXTextBookmark */;
+			CD1AEF9712EC91F6001992BA /* PBXTextBookmark */ = CD1AEF9712EC91F6001992BA /* PBXTextBookmark */;
+			CD1E8DEA12EC94F600B1ABFC /* PBXTextBookmark */ = CD1E8DEA12EC94F600B1ABFC /* PBXTextBookmark */;
+			CD7463B812E6DD37001C6A9C /* PBXBookmark */ = CD7463B812E6DD37001C6A9C /* PBXBookmark */;
+			CD74648D12E6DDE8001C6A9C /* PBXBookmark */ = CD74648D12E6DDE8001C6A9C /* PBXBookmark */;
+			CD98373C1208114800011F4A /* PBXBookmark */ = CD98373C1208114800011F4A /* PBXBookmark */;
+			CD98373D1208114800011F4A /* PBXBookmark */ = CD98373D1208114800011F4A /* PBXBookmark */;
+			CD98373E1208114800011F4A /* PBXBookmark */ = CD98373E1208114800011F4A /* PBXBookmark */;
+			CD9837401208114800011F4A /* PBXBookmark */ = CD9837401208114800011F4A /* PBXBookmark */;
+			CD9837411208114800011F4A /* PBXBookmark */ = CD9837411208114800011F4A /* PBXBookmark */;
+			CD9837421208114800011F4A /* PBXBookmark */ = CD9837421208114800011F4A /* PBXBookmark */;
+			CD9837431208114800011F4A /* PBXBookmark */ = CD9837431208114800011F4A /* PBXBookmark */;
+			CD9837441208114800011F4A /* PBXBookmark */ = CD9837441208114800011F4A /* PBXBookmark */;
+			CD98374F120817FC00011F4A /* PlistBookmark */ = CD98374F120817FC00011F4A /* PlistBookmark */;
+			CD9837FE1208685E00011F4A /* PBXBookmark */ = CD9837FE1208685E00011F4A /* PBXBookmark */;
+		};
+		sourceControlManager = CD9833FD120806DA00011F4A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{0, 441}";
+		};
+	};
+	CD1AEF0A12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BeautyOfKoreaHDAppDelegate.m */;
+		name = "BeautyOfKoreaHDAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 0;
+	};
+	CD1AEF0B12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042009108E984D000629CD /* DetailViewController.h */;
+		name = "DetailViewController.h: 9";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 0;
+	};
+	CD1AEF0C12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
+		name = "DetailViewController.m: 9";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 1515;
+		vrLoc = 0;
+	};
+	CD1AEF0D12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CD9838021208692700011F4A /* LocationAnnotation.m */;
+		name = "LocationAnnotation.m: 9";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 0;
+	};
+	CD1AEF0E12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 441;
+		vrLoc = 0;
+	};
+	CD1AEF0F12EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CD9838011208692700011F4A /* LocationAnnotation.h */;
+		name = "LocationAnnotation.h: 9";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	CD1AEF1012EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* RootViewController.m */;
+		name = "RootViewController.m: 9";
+		rLen = 0;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 1162;
+		vrLoc = 0;
+	};
+	CD1AEF1112EC8F5E001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042007108E984D000629CD /* RootViewController.h */;
+		name = "RootViewController.h: 9";
+		rLen = 0;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 1370;
+		vrLoc = 0;
+	};
+	CD1AEF9712EC91F6001992BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BeautyOfKoreaHDAppDelegate.h */;
+		name = "BeautyOfKoreaHDAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 418;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 0;
+	};
+	CD1E8DEA12EC94F600B1ABFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BeautyOfKoreaHDAppDelegate.h */;
+		name = "BeautyOfKoreaHDAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 315;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 0;
+	};
+	CD7463B812E6DD37001C6A9C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CDFC8EF312097537005C0D39 /* Default-Landscape.png */;
+	};
+	CD74648D12E6DDE8001C6A9C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CDFC8EF412097537005C0D39 /* Default-Portrait.png */;
+	};
+	CD9833E9120806CE00011F4A /* BeautyOfKoreaHD */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BeautyOfKoreaHD;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CD9833FD120806DA00011F4A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CD9833FE120806DA00011F4A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CD98373C1208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98365912080E8C00011F4A /* mainTitle.png */;
+	};
+	CD98373D1208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD9835A412080E8C00011F4A /* btnBack.png */;
+	};
+	CD98373E1208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD9835A312080E8C00011F4A /* annotationIcon.png */;
+	};
+	CD9837401208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98365712080E8C00011F4A /* mainMenu5.png */;
+	};
+	CD9837411208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98364F12080E8C00011F4A /* introByungsan.png */;
+	};
+	CD9837421208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98365312080E8C00011F4A /* mainMenu1.png */;
+	};
+	CD9837431208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98365112080E8C00011F4A /* mainBG.png */;
+	};
+	CD9837441208114800011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98365412080E8C00011F4A /* mainMenu2.png */;
+	};
+	CD98374F120817FC00011F4A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BeautyOfKoreaHD-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/DongyoonPark/Desktop/iPhone/Codes/BeautyOfKoreaHD/BeautyOfKoreaHD-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CD9837FE1208685E00011F4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CD98364C12080E8C00011F4A /* introAndong.png */;
+	};
+	CD9838011208692700011F4A /* LocationAnnotation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 723}";
+		};
+	};
+	CD9838021208692700011F4A /* LocationAnnotation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 891}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 681}";
+		};
+	};
+}

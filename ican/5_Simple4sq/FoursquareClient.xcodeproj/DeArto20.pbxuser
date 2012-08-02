@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FoursquareClientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 578}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FoursquareClientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 864}}";
+			sepNavSelRange = "{655, 26}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FoursquareClient */ = {
+		activeExec = 0;
+		executables = (
+			F180162B11E8428300D0B048 /* FoursquareClient */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* FoursquareClient_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 314}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 338}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1375, 640}}";
+			sepNavSelRange = "{1032, 0}";
+			sepNavVisRange = "{49, 990}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1375, 4176}}";
+			sepNavSelRange = "{4192, 0}";
+			sepNavVisRange = "{3534, 1032}";
+			sepNavWindowFrame = "{{42, 54}, {1005, 798}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = F180162B11E8428300D0B048 /* FoursquareClient */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FoursquareClient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FoursquareClient */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = F180163511E8428800D0B048 /* Code sense */;
+		executables = (
+			F180162B11E8428300D0B048 /* FoursquareClient */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					921,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					935,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313880856;
+			PBXWorkspaceStateSaveDate = 313880856;
+		};
+		perUserProjectItems = {
+			F1630DAC12B570450028C0FC /* PBXTextBookmark */ = F1630DAC12B570450028C0FC /* PBXTextBookmark */;
+			F1630EB512B571190028C0FC /* PBXTextBookmark */ = F1630EB512B571190028C0FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = F180163411E8428800D0B048 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F1630DAC12B570450028C0FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FoursquareClientAppDelegate.m */;
+		name = "FoursquareClientAppDelegate.m: 30";
+		rLen = 26;
+		rLoc = 655;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	F1630EB512B571190028C0FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FoursquareClientAppDelegate.m */;
+		name = "FoursquareClientAppDelegate.m: 30";
+		rLen = 26;
+		rLoc = 655;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	F180162B11E8428300D0B048 /* FoursquareClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FoursquareClient;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F180163411E8428800D0B048 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F180163511E8428800D0B048 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F180165911E8432600D0B048 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 704}}";
+			sepNavSelRange = "{53, 0}";
+			sepNavVisRange = "{3, 802}";
+		};
+	};
+	F180165A11E8432600D0B048 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 3200}}";
+			sepNavSelRange = "{6044, 0}";
+			sepNavVisRange = "{4531, 1093}";
+		};
+	};
+	F180165B11E8432600D0B048 /* FoursquareClientModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 576}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{3, 655}";
+		};
+	};
+	F180165C11E8432600D0B048 /* FoursquareClientModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 2224}}";
+			sepNavSelRange = "{952, 0}";
+			sepNavVisRange = "{532, 604}";
+		};
+	};
+	F1BC0B111211CC660002F1E0 /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 410}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	F1BC0B121211CC660002F1E0 /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 1936}}";
+			sepNavSelRange = "{864, 11}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+}
