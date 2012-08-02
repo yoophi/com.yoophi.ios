@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FeelingsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 225}}";
+			sepNavSelRange = "{124, 0}";
+			sepNavVisRange = "{0, 271}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FeelingsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 351}}";
+			sepNavSelRange = "{484, 0}";
+			sepNavVisRange = "{155, 361}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Feelings */ = {
+		activeExec = 0;
+		executables = (
+			622DE8FB118A072600B85E6A /* Feelings */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FeelingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 225}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 90}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FeelingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 715}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 622DE8FB118A072600B85E6A /* Feelings */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Feelings */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Feelings */,
+		);
+		codeSenseManager = 622DE90C118A072D00B85E6A /* Code sense */;
+		executables = (
+			622DE8FB118A072600B85E6A /* Feelings */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301101984;
+			PBXWorkspaceStateSaveDate = 301101984;
+		};
+		perUserProjectItems = {
+			6213A41E11F273DE006ECFDE /* PBXTextBookmark */ = 6213A41E11F273DE006ECFDE /* PBXTextBookmark */;
+			6213A41F11F273DE006ECFDE /* PBXTextBookmark */ = 6213A41F11F273DE006ECFDE /* PBXTextBookmark */;
+			6213A42011F273DE006ECFDE /* PBXTextBookmark */ = 6213A42011F273DE006ECFDE /* PBXTextBookmark */;
+			6213A42111F273DE006ECFDE /* PBXTextBookmark */ = 6213A42111F273DE006ECFDE /* PBXTextBookmark */;
+			6213A42211F273DE006ECFDE /* PBXTextBookmark */ = 6213A42211F273DE006ECFDE /* PBXTextBookmark */;
+			6254EDA311B696DF002B4752 /* PBXTextBookmark */ = 6254EDA311B696DF002B4752 /* PBXTextBookmark */;
+			6254EDA411B696DF002B4752 /* PBXTextBookmark */ = 6254EDA411B696DF002B4752 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 622DE90B118A072D00B85E6A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 243}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Feelings_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 243}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	6213A41E11F273DE006ECFDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FeelingsAppDelegate.h */;
+		name = "FeelingsAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 0;
+	};
+	6213A41F11F273DE006ECFDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FeelingsAppDelegate.m */;
+		name = "FeelingsAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 484;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 155;
+	};
+	6213A42011F273DE006ECFDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FeelingsViewController.h */;
+		name = "FeelingsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 90;
+		vrLoc = 0;
+	};
+	6213A42111F273DE006ECFDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FeelingsViewController.m */;
+		name = "FeelingsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	6213A42211F273DE006ECFDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FeelingsViewController.m */;
+		name = "FeelingsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	622DE8FB118A072600B85E6A /* Feelings */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Feelings;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	622DE90B118A072D00B85E6A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	622DE90C118A072D00B85E6A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6254EDA311B696DF002B4752 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Feelings_Prefix.pch */;
+		name = "Feelings_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	6254EDA411B696DF002B4752 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+}

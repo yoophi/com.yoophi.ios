@@ -1,0 +1,206 @@
+// !$*UTF8*$!
+{
+	070D68A211FD471600A8F419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MoviePlayerViewController.h */;
+		name = "MoviePlayerViewController.h: 27";
+		rLen = 61;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 279;
+	};
+	070D68A311FD471600A8F419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MoviePlayerViewController.m */;
+		name = "MoviePlayerViewController.m: 13";
+		rLen = 60;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 0;
+	};
+	071BD868119528FD009E994F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MoviePlayerViewController.m */;
+		name = "MoviePlayerViewController.m: 13";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 1016;
+		vrLoc = 0;
+	};
+	071BD86A119528FD009E994F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MoviePlayerViewController.h */;
+		name = "MoviePlayerViewController.h: 27";
+		rLen = 61;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 0;
+	};
+	071BD86D119528FD009E994F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MoviePlayerViewController.m */;
+		name = "MoviePlayerViewController.m: 13";
+		rLen = 60;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 1916;
+		vrLoc = 0;
+	};
+	07363C26115EC45600A81462 /* MoviePlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MoviePlayer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	07363C31115EC45A00A81462 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	07363C32115EC45A00A81462 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	07363C5C115ED53400A81462 /* MoviePlayerViewController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* MoviePlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = MoviePlayer;
+		modificationTime = 291427715.931553;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	07363C62115ED54100A81462 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MoviePlayerAppDelegate.m */;
+		name = "MoviePlayerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	1D3623250D0F684500981E51 /* MoviePlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 680}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MoviePlayer */ = {
+		activeExec = 0;
+		executables = (
+			07363C26115EC45600A81462 /* MoviePlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MoviePlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {965, 861}}";
+			sepNavSelRange = "{497, 61}";
+			sepNavVisRange = "{279, 495}";
+			sepNavWindowFrame = "{{358, 234}, {1920, 1084}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MoviePlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095.69, 2079}}";
+			sepNavSelRange = "{231, 60}";
+			sepNavVisRange = "{0, 1244}";
+			sepNavWindowFrame = "{{2934, 183}, {962, 1181}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 07363C26115EC45600A81462 /* MoviePlayer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MoviePlayer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MoviePlayer */,
+		);
+		breakpoints = (
+			07363C5C115ED53400A81462 /* MoviePlayerViewController.m:39 */,
+		);
+		codeSenseManager = 07363C32115EC45A00A81462 /* Code sense */;
+		executables = (
+			07363C26115EC45600A81462 /* MoviePlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					787,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301811403;
+			PBXWorkspaceStateSaveDate = 301811403;
+		};
+		perUserProjectItems = {
+			070D68A211FD471600A8F419 /* PBXTextBookmark */ = 070D68A211FD471600A8F419 /* PBXTextBookmark */;
+			070D68A311FD471600A8F419 /* PBXTextBookmark */ = 070D68A311FD471600A8F419 /* PBXTextBookmark */;
+			071BD868119528FD009E994F /* PBXTextBookmark */ = 071BD868119528FD009E994F /* PBXTextBookmark */;
+			071BD86A119528FD009E994F /* PBXTextBookmark */ = 071BD86A119528FD009E994F /* PBXTextBookmark */;
+			071BD86D119528FD009E994F /* PBXTextBookmark */ = 071BD86D119528FD009E994F /* PBXTextBookmark */;
+			07363C62115ED54100A81462 /* PBXTextBookmark */ = 07363C62115ED54100A81462 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 07363C31115EC45A00A81462 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

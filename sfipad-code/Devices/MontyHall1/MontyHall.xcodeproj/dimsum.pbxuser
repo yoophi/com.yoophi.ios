@@ -1,0 +1,239 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MontyHallAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 330}}";
+			sepNavSelRange = "{127, 0}";
+			sepNavVisRange = "{0, 274}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MontyHallAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 338}}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MontyHall */ = {
+		activeExec = 0;
+		executables = (
+			62219D5E11B836F80054D80F /* MontyHall */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MontyHallViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 772}}";
+			sepNavSelRange = "{127, 0}";
+			sepNavVisRange = "{0, 251}";
+			sepNavWindowFrame = "{{60, 21}, {1009, 852}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MontyHallViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 1001}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{1282, 671}";
+			sepNavWindowFrame = "{{60, 21}, {1009, 852}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 62219D5E11B836F80054D80F /* MontyHall */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MontyHall */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MontyHall */,
+		);
+		codeSenseManager = 62219D6F11B836FE0054D80F /* Code sense */;
+		executables = (
+			62219D5E11B836F80054D80F /* MontyHall */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					653,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305221639;
+			PBXWorkspaceStateSaveDate = 305221639;
+		};
+		perUserProjectItems = {
+			62443AA612315010001D31F7 /* PBXTextBookmark */ = 62443AA612315010001D31F7 /* PBXTextBookmark */;
+			62443AA712315010001D31F7 /* PBXTextBookmark */ = 62443AA712315010001D31F7 /* PBXTextBookmark */;
+			62B2B15B11F3707F0088D7A7 /* PlistBookmark */ = 62B2B15B11F3707F0088D7A7 /* PlistBookmark */;
+			62B2B15C11F3707F0088D7A7 /* PBXTextBookmark */ = 62B2B15C11F3707F0088D7A7 /* PBXTextBookmark */;
+			62B2B15D11F3707F0088D7A7 /* PBXTextBookmark */ = 62B2B15D11F3707F0088D7A7 /* PBXTextBookmark */;
+			62B2B15E11F3707F0088D7A7 /* PBXTextBookmark */ = 62B2B15E11F3707F0088D7A7 /* PBXTextBookmark */;
+			62B2B15F11F3707F0088D7A7 /* PBXTextBookmark */ = 62B2B15F11F3707F0088D7A7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 62219D6E11B836FE0054D80F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 330}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	62219D5E11B836F80054D80F /* MontyHall */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MontyHall;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	62219D6E11B836FE0054D80F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	62219D6F11B836FE0054D80F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	62443AA612315010001D31F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MontyHallViewController.m */;
+		name = "MontyHallViewController.m: 26";
+		rLen = 0;
+		rLoc = 966;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 536;
+	};
+	62443AA712315010001D31F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MontyHallViewController.m */;
+		name = "MontyHallViewController.m: 20";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 1282;
+	};
+	62B2B15B11F3707F0088D7A7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MontyHall-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Data/Prags/Bookshelf/Writing/sfipad/Book/code/Devices/MontyHall1/MontyHall-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	62B2B15C11F3707F0088D7A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	62B2B15D11F3707F0088D7A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MontyHallAppDelegate.h */;
+		name = "MontyHallAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	62B2B15E11F3707F0088D7A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MontyHallAppDelegate.m */;
+		name = "MontyHallAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	62B2B15F11F3707F0088D7A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MontyHallViewController.h */;
+		name = "MontyHallViewController.h: 4";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* MontyHall-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{83, 0}, {1009, 852}}";
+		};
+	};
+}

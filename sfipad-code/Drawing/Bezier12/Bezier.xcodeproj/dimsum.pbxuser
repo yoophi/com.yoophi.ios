@@ -1,0 +1,260 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BezierAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 324}}";
+			sepNavSelRange = "{121, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BezierAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 338}}";
+			sepNavSelRange = "{477, 0}";
+			sepNavVisRange = "{0, 509}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Bezier */ = {
+		activeExec = 0;
+		executables = (
+			6294B92A1194312100543AD2 /* Bezier */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BezierViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 88}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BezierViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 689}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 668}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6294B92A1194312100543AD2 /* Bezier */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bezier */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bezier */,
+		);
+		codeSenseManager = 6294B9431194312900543AD2 /* Code sense */;
+		executables = (
+			6294B92A1194312100543AD2 /* Bezier */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					545,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301198268;
+			PBXWorkspaceStateSaveDate = 301198268;
+		};
+		perUserProjectItems = {
+			620D0C3111B6964600C6B1B5 /* PBXBookmark */ = 620D0C3111B6964600C6B1B5 /* PBXBookmark */;
+			620D0C3211B6964600C6B1B5 /* PBXTextBookmark */ = 620D0C3211B6964600C6B1B5 /* PBXTextBookmark */;
+			620D0C3411B6964600C6B1B5 /* PBXTextBookmark */ = 620D0C3411B6964600C6B1B5 /* PBXTextBookmark */;
+			620D0C3511B6964600C6B1B5 /* PBXTextBookmark */ = 620D0C3511B6964600C6B1B5 /* PBXTextBookmark */;
+			620D0C3611B6964600C6B1B5 /* PBXTextBookmark */ = 620D0C3611B6964600C6B1B5 /* PBXTextBookmark */;
+			620D0C3711B6964600C6B1B5 /* PBXTextBookmark */ = 620D0C3711B6964600C6B1B5 /* PBXTextBookmark */;
+			623187C111F3EBFB00DEDFB9 /* PBXTextBookmark */ = 623187C111F3EBFB00DEDFB9 /* PBXTextBookmark */;
+			623187C211F3EBFB00DEDFB9 /* PBXTextBookmark */ = 623187C211F3EBFB00DEDFB9 /* PBXTextBookmark */;
+			623187C311F3EBFB00DEDFB9 /* PBXTextBookmark */ = 623187C311F3EBFB00DEDFB9 /* PBXTextBookmark */;
+			6295E1AE1196E7AA00A6421C /* PBXTextBookmark */ = 6295E1AE1196E7AA00A6421C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6294B9421194312900543AD2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	620D0C3111B6964600C6B1B5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 62164B8A11B2BC2C00FD3098 /* icon-ipad.png */;
+	};
+	620D0C3211B6964600C6B1B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	620D0C3411B6964600C6B1B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6294B9451194318200543AD2 /* BezierView.h */;
+		name = "BezierView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 68;
+		vrLoc = 0;
+	};
+	620D0C3511B6964600C6B1B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BezierViewController.m */;
+		name = "BezierViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	620D0C3611B6964600C6B1B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BezierViewController.h */;
+		name = "BezierViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 88;
+		vrLoc = 0;
+	};
+	620D0C3711B6964600C6B1B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BezierAppDelegate.m */;
+		name = "BezierAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	623187C111F3EBFB00DEDFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6294B9461194318200543AD2 /* BezierView.m */;
+		name = "BezierView.m: 92";
+		rLen = 0;
+		rLoc = 3086;
+		rType = 0;
+		vrLen = 911;
+		vrLoc = 176;
+	};
+	623187C211F3EBFB00DEDFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BezierAppDelegate.h */;
+		name = "BezierAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 121;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	623187C311F3EBFB00DEDFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BezierAppDelegate.m */;
+		name = "BezierAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 477;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	6294B92A1194312100543AD2 /* Bezier */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bezier;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6294B9421194312900543AD2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6294B9431194312900543AD2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6294B9451194318200543AD2 /* BezierView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 68}";
+		};
+	};
+	6294B9461194318200543AD2 /* BezierView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 1378}}";
+			sepNavSelRange = "{3086, 0}";
+			sepNavVisRange = "{176, 911}";
+			sepNavWindowFrame = "{{90, 0}, {979, 746}}";
+		};
+	};
+	6295E1AE1196E7AA00A6421C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6295E1AF1196E7AA00A6421C /* BezierView.m */;
+		name = "BezierView.m: 27";
+		rLen = 58;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 1290;
+		vrLoc = 110;
+	};
+	6295E1AF1196E7AA00A6421C /* BezierView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BezierView.m;
+		path = /Volumes/Data/Prags/Bookshelf/Writing/sfipad/Book/code/Drawing/Bezier1/Classes/BezierView.m;
+		sourceTree = "<absolute>";
+	};
+	8D1107310486CEB800E47090 /* Bezier-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{60, 79}, {947, 794}}";
+		};
+	};
+}

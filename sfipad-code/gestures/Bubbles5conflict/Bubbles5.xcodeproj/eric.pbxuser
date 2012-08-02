@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	070D693A11FD4D5500A8F419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Bubbles5ViewController.m */;
+		name = "Bubbles5ViewController.m: 107";
+		rLen = 0;
+		rLoc = 2731;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 2417;
+	};
+	071B6CFC1150470F00A96FD4 /* DeleteGestureRecognizer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1209}}";
+			sepNavSelRange = "{1754, 0}";
+			sepNavVisRange = "{1321, 897}";
+		};
+	};
+	071B808A114FE538002C109C /* Bubbles5 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bubbles5;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	071B80A2114FE550002C109C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	071B80A3114FE550002C109C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	071B80CB114FE5FA002C109C /* DeleteGestureRecognizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 572}}";
+			sepNavSelRange = "{929, 0}";
+			sepNavVisRange = "{201, 824}";
+		};
+	};
+	071B80CE114FE69A002C109C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 071B80AF114FE586002C109C /* bubble.png */;
+	};
+	072020701181551E000C8174 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 071B6CFC1150470F00A96FD4 /* DeleteGestureRecognizer.m */;
+		name = "DeleteGestureRecognizer.m: 68";
+		rLen = 0;
+		rLoc = 1754;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 1321;
+	};
+	07B51BF5118AAC3B0026F292 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Bubbles5ViewController.h */;
+		name = "Bubbles5ViewController.h: 15";
+		rLen = 44;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	07B57DE91159C524008318C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 071B80CB114FE5FA002C109C /* DeleteGestureRecognizer.h */;
+		name = "DeleteGestureRecognizer.h: 35";
+		rLen = 0;
+		rLoc = 929;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 201;
+	};
+	07F1C30D11C9C6F300231D8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Bubbles5ViewController.m */;
+		name = "Bubbles5ViewController.m: 176";
+		rLen = 0;
+		rLoc = 4718;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 4362;
+	};
+	1D6058900D05DD3D006BFB54 /* Bubbles5 */ = {
+		activeExec = 0;
+		executables = (
+			071B808A114FE538002C109C /* Bubbles5 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Bubbles5ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 508}}";
+			sepNavSelRange = "{317, 44}";
+			sepNavVisRange = "{0, 369}";
+			sepNavWindowFrame = "{{15, 489}, {1920, 1084}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Bubbles5ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 4221}}";
+			sepNavSelRange = "{2731, 0}";
+			sepNavVisRange = "{2417, 826}";
+			sepNavWindowFrame = "{{15, 60}, {1425, 813}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 071B808A114FE538002C109C /* Bubbles5 */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bubbles5 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bubbles5 */,
+		);
+		codeSenseManager = 071B80A3114FE550002C109C /* Code sense */;
+		executables = (
+			071B808A114FE538002C109C /* Bubbles5 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					899,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301813040;
+			PBXWorkspaceStateSaveDate = 301813040;
+		};
+		perUserProjectItems = {
+			070D693A11FD4D5500A8F419 /* PBXTextBookmark */ = 070D693A11FD4D5500A8F419 /* PBXTextBookmark */;
+			071B80CE114FE69A002C109C /* PBXBookmark */ = 071B80CE114FE69A002C109C /* PBXBookmark */;
+			072020701181551E000C8174 /* PBXTextBookmark */ = 072020701181551E000C8174 /* PBXTextBookmark */;
+			07B51BF5118AAC3B0026F292 /* PBXTextBookmark */ = 07B51BF5118AAC3B0026F292 /* PBXTextBookmark */;
+			07B57DE91159C524008318C4 /* PBXTextBookmark */ = 07B57DE91159C524008318C4 /* PBXTextBookmark */;
+			07F1C30D11C9C6F300231D8A /* PBXTextBookmark */ = 07F1C30D11C9C6F300231D8A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 071B80A2114FE550002C109C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

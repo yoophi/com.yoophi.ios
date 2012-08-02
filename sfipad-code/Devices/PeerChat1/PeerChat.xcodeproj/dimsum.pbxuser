@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PeerChatAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 225}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRange = "{0, 271}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PeerChatAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {585, 471}}";
+			sepNavSelRange = "{483, 0}";
+			sepNavVisRange = "{0, 515}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PeerChat */ = {
+		activeExec = 0;
+		executables = (
+			62D01AEC11C1EFDA00BAB83A /* PeerChat */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PeerChatViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {585, 471}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 297}";
+			sepNavWindowFrame = "{{60, 21}, {1009, 852}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PeerChatViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {585, 465}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 716}";
+			sepNavWindowFrame = "{{83, 0}, {1009, 852}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 62D01AEC11C1EFDA00BAB83A /* PeerChat */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PeerChat */;
+		codeSenseManager = 62D01B0111C1EFF500BAB83A /* Code sense */;
+		executables = (
+			62D01AEC11C1EFDA00BAB83A /* PeerChat */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					407,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305221738;
+			PBXWorkspaceStateSaveDate = 305221738;
+		};
+		perUserProjectItems = {
+			6204349C11F38BD40056A87B /* PBXTextBookmark */ = 6204349C11F38BD40056A87B /* PBXTextBookmark */;
+			6204349D11F38BD40056A87B /* PBXTextBookmark */ = 6204349D11F38BD40056A87B /* PBXTextBookmark */;
+			6204349E11F38BD40056A87B /* PBXTextBookmark */ = 6204349E11F38BD40056A87B /* PBXTextBookmark */;
+			6204349F11F38BD40056A87B /* PBXTextBookmark */ = 6204349F11F38BD40056A87B /* PBXTextBookmark */;
+			620434A111F38BD40056A87B /* PBXTextBookmark */ = 620434A111F38BD40056A87B /* PBXTextBookmark */;
+			62C423FE123150B300A736E6 /* PBXTextBookmark */ = 62C423FE123150B300A736E6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 62D01B0011C1EFF500BAB83A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 225}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	6204349C11F38BD40056A87B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	6204349D11F38BD40056A87B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PeerChatAppDelegate.h */;
+		name = "PeerChatAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 0;
+	};
+	6204349E11F38BD40056A87B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PeerChatAppDelegate.m */;
+		name = "PeerChatAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 0;
+	};
+	6204349F11F38BD40056A87B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PeerChatViewController.h */;
+		name = "PeerChatViewController.h: 5";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 297;
+		vrLoc = 0;
+	};
+	620434A111F38BD40056A87B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PeerChatViewController.m */;
+		name = "PeerChatViewController.m: 9";
+		rLen = 72;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	62C423FE123150B300A736E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PeerChatViewController.m */;
+		name = "PeerChatViewController.m: 27";
+		rLen = 0;
+		rLoc = 716;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	62D01AEC11C1EFDA00BAB83A /* PeerChat */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PeerChat;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	62D01B0011C1EFF500BAB83A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	62D01B0111C1EFF500BAB83A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* PeerChat-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{60, 21}, {1009, 852}}";
+		};
+	};
+}

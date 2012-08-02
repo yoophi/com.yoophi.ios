@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CargoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 282}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 321}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CargoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 282}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRange = "{0, 450}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Cargo */ = {
+		activeExec = 0;
+		executables = (
+			62B0E9DA11727C1C00AA34E5 /* Cargo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CargoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 282}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 115}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CargoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 416}}";
+			sepNavSelRange = "{1047, 0}";
+			sepNavVisRange = "{293, 754}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 62B0E9DA11727C1C00AA34E5 /* Cargo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Cargo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Cargo */,
+		);
+		codeSenseManager = 62B0E9EA11727C1F00AA34E5 /* Code sense */;
+		executables = (
+			62B0E9DA11727C1C00AA34E5 /* Cargo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					531,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296926939;
+			PBXWorkspaceStateSaveDate = 296926939;
+		};
+		perUserProjectItems = {
+			62096BB811B2BEE9009FBB52 /* PBXBookmark */ = 62096BB811B2BEE9009FBB52 /* PBXBookmark */;
+			62096BBB11B2BF09009FBB52 /* PBXTextBookmark */ = 62096BBB11B2BF09009FBB52 /* PBXTextBookmark */;
+			62096BBC11B2BF09009FBB52 /* PBXBookmark */ = 62096BBC11B2BF09009FBB52 /* PBXBookmark */;
+			62096BBD11B2BF09009FBB52 /* PBXBookmark */ = 62096BBD11B2BF09009FBB52 /* PBXBookmark */;
+			62096BC011B2BF09009FBB52 /* PlistBookmark */ = 62096BC011B2BF09009FBB52 /* PlistBookmark */;
+			625C574211749BAF007BF04C /* PBXTextBookmark */ = 625C574211749BAF007BF04C /* PBXTextBookmark */;
+			625C574311749BAF007BF04C /* PBXTextBookmark */ = 625C574311749BAF007BF04C /* PBXTextBookmark */;
+			625C574411749BAF007BF04C /* PBXTextBookmark */ = 625C574411749BAF007BF04C /* PBXTextBookmark */;
+			625C574511749BAF007BF04C /* PBXTextBookmark */ = 625C574511749BAF007BF04C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 62B0E9E911727C1F00AA34E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 282}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	62096BB811B2BEE9009FBB52 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Cargo-Info.plist */;
+	};
+	62096BBB11B2BF09009FBB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CargoViewController.m */;
+		name = "CargoViewController.m: 32";
+		rLen = 0;
+		rLoc = 1047;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 293;
+	};
+	62096BBC11B2BF09009FBB52 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 62096BB611B2BEE7009FBB52 /* icon-ipad.png */;
+	};
+	62096BBD11B2BF09009FBB52 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 62096BB611B2BEE7009FBB52 /* icon-ipad.png */;
+	};
+	62096BC011B2BF09009FBB52 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Cargo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Data/Prags/Bookshelf/Writing/sfipad/Book/code/Popover/Cargo2/Cargo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	625C574211749BAF007BF04C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 8";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	625C574311749BAF007BF04C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CargoAppDelegate.h */;
+		name = "CargoAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	625C574411749BAF007BF04C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CargoAppDelegate.m */;
+		name = "CargoAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 0;
+	};
+	625C574511749BAF007BF04C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CargoViewController.h */;
+		name = "CargoViewController.h: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 115;
+		vrLoc = 0;
+	};
+	62B0E9DA11727C1C00AA34E5 /* Cargo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Cargo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	62B0E9E911727C1F00AA34E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	62B0E9EA11727C1F00AA34E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* Cargo-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{60, 23}, {947, 850}}";
+		};
+	};
+}

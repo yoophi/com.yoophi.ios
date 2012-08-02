@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Bubbles3' target in the 'Bubbles3' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
